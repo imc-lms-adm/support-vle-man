@@ -86,6 +86,8 @@ div.c1 {
 }
 
 
+
+
 .note {
   	border-top: #000 1px dashed;
 	padding: .5em;
@@ -114,6 +116,10 @@ p.t a:hover {
 	color: #60f;
 }
 
+div {
+    padding-left: 15px;
+  }
+ 
 .t2{
 	background-color: #51657b;
 	text-align: center;
@@ -206,8 +212,13 @@ div#footer div.nav{
     padding-left: 20px;
 }
 
-h2 {
+h3 {
     border-left: 15px solid #069;
+    padding-left: 10px;
+}
+
+h4 {
+    border-left: 15px solid #dde;
     padding-left: 10px;
 }
 
